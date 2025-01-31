@@ -18,4 +18,4 @@ Email Alerts: Sends an email if any thresholds are breached (requires email conf
 
 Here is a screenshot of the email sent
 
-![alt text](https://drive.google.com/file/d/17-iCVGLVMhfi7uY49CNP0m9BpGA6COfi/view?usp=sharing)
+![alt text]([https://drive.google.com/file/d/17-iCVGLVMhfi7uY49CNP0m9BpGA6COfi/view?usp=sharing](https://drive.google.com/file/d/17-iCVGLVMhfi7uY49CNP0m9BpGA6COfi/view))
