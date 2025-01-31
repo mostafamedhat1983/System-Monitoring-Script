@@ -17,4 +17,5 @@ Customizable Thresholds: Allows the user to specify a disk usage warning thresho
 Email Alerts: Sends an email if any thresholds are breached (requires email configuration).
 
 Here is a screenshot of the email sent
-![Alt text]([https://assets.digitalocean.com/articles/alligator/boo.svg](https://drive.google.com/file/d/17-iCVGLVMhfi7uY49CNP0m9BpGA6COfi/view?usp=sharing) "a title")
+
+![alt text](https://drive.google.com/file/d/17-iCVGLVMhfi7uY49CNP0m9BpGA6COfi/view?usp=sharing)
