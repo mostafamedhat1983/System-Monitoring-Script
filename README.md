@@ -1,4 +1,5 @@
 System Monitor Script
+
 This script is designed to monitor key system metrics, including disk usage, CPU usage, memory usage, and running processes. It generates a report and can send email alerts if specified thresholds are breached. The script is intended to be run as a cron job for regular monitoring.
 
 Features
